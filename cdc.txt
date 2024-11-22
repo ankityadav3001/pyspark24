@@ -1,3 +1,2 @@
 my name is ankit yadav 
-its my second program
-and i am commiting it in my ank branch
+its my second program 
